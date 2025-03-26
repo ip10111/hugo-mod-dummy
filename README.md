@@ -1,2 +1,3 @@
-# hugo-mod-dummy
-Dummy components to help developing a Hugo site. 
+# Dummy Content for Hugo
+
+Placeholder hugo content used for testing or layout purposes before the actual content is ready.
